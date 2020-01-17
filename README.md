@@ -25,4 +25,4 @@ SimpleTimer
 ```
 
 ### Further info
-[Satya](https://satya.com.np.com/)
+[Satya](https://satya.com.np/)
